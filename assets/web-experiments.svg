@@ -1,12 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="200" viewBox="0 0 1200 200" role="img" aria-labelledby="title desc">
-  <title id="title">Web experiments — a5my0u.github.io</title>
-  <desc id="desc">Open the repository. Built with HTML, CSS, and JavaScript.</desc>
-  <rect x="1" y="1" width="1198" height="198" rx="14" fill="#142119" stroke="#304333" stroke-width="2"/>
-  <rect x="1" y="48" width="4" height="104" rx="2" fill="#c9ef92"/>
-  <g font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace">
-    <text x="48" y="48" fill="#9db18f" font-size="14" letter-spacing="3">WEB EXPERIMENTS</text>
-    <text x="46" y="108" fill="#edf3e9" font-size="39" font-weight="600" letter-spacing="-1">a5my0u.github.io</text>
-    <text x="48" y="157" fill="#a8bbad" font-size="17">HTML  /  CSS  /  JavaScript</text>
-    <text x="1140" y="116" text-anchor="end" fill="#c9ef92" font-size="46">↗</text>
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="250" viewBox="0 0 1200 250" role="img" aria-labelledby="title desc">
+<title id="title">Web experiments — a5my0u.github.io</title>
+<desc id="desc">Explore the a5my0u.github.io repository.</desc>
+<rect width="1200" height="250" rx="10" fill="#0b0e0c"/>
+<path d="M242 0v250" stroke="#2b3327"/>
+<text x="49" y="160" font-family="'Arial Black','Segoe UI',Arial,sans-serif" font-size="126" font-weight="900" letter-spacing="-10" fill="#c6ff4d">01</text>
+<text x="282" y="63" font-family="Consolas,monospace" font-size="24" letter-spacing="3" fill="#9aab8c">WEB EXPERIMENTS</text>
+<text x="278" y="140" font-family="'Segoe UI',Arial,sans-serif" font-size="62" font-weight="700" letter-spacing="-2" fill="#f1f4ec">a5my0u.github.io</text>
+<text x="283" y="200" font-family="Consolas,monospace" font-size="27" fill="#9aab8c">EXPLORE THE REPOSITORY</text>
+<rect x="1054" y="78" width="94" height="94" rx="47" fill="#c6ff4d"/>
+<path d="M1084 143l34-34m-34 0h34v34" fill="none" stroke="#10160b" stroke-width="6"/>
 </svg>

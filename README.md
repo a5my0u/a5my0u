@@ -1,16 +1,18 @@
-## Hi there 👋
+<p align="center">
+  <img src="./assets/header.svg" alt="a5my0u — Code. Create. Explore. Small steps. New possibilities." width="100%" />
+</p>
 
-<!--
-**a5my0u/a5my0u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Build. Learn. Repeat.
 
-Here are some ideas to get you started:
+Webでできることを、少しずつ。  
+つくったものと、学んだことをここに。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+
+<a href="https://github.com/a5my0u/a5my0u.github.io">
+  <img src="./assets/web-experiments.svg" alt="Web experiments: a5my0u.github.io — HTML / CSS / JavaScript. リポジトリを見る" width="100%" />
+</a>
+
+<p align="right">
+  <sub>Thanks for stopping by.</sub>
+</p>

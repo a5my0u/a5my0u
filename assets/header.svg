@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">a5my0u — Code. Create. Explore.</title>
+  <desc id="desc">A dark forest-green profile banner with a lime accent, fine grid, and geometric orbital lines.</desc>
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#a8c2af" stroke-opacity=".07"/></pattern>
+    <linearGradient id="shade" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101c16"/><stop offset="1" stop-color="#1a2c20"/></linearGradient>
+  </defs>
+  <rect width="1200" height="360" rx="16" fill="url(#shade)"/>
+  <rect width="1200" height="360" rx="16" fill="url(#grid)"/>
+  <g fill="none" stroke="#96ba82">
+    <circle cx="1035" cy="180" r="110" stroke-opacity=".24"/>
+    <circle cx="1035" cy="180" r="155" stroke-opacity=".15"/>
+    <ellipse cx="1035" cy="180" rx="180" ry="65" transform="rotate(-35 1035 180)" stroke-opacity=".45"/>
+    <path d="M885 180h300M1035 30v300" stroke-opacity=".14"/>
+  </g>
+  <circle cx="1035" cy="180" r="6" fill="#c9ef92"/>
+  <circle cx="1136" cy="104" r="4" fill="#c9ef92"/>
+  <g font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace">
+    <text x="64" y="72" fill="#c9ef92" font-size="17" letter-spacing="4">CODE / CREATE / EXPLORE</text>
+    <text x="60" y="186" fill="#edf3e9" font-size="86" font-weight="600" letter-spacing="-5"><tspan fill="#c9ef92">&gt; </tspan>a5my0u<tspan fill="#c9ef92">_</tspan></text>
+    <text x="65" y="242" fill="#a8bbad" font-size="21" letter-spacing=".5">Small steps. New possibilities.</text>
+  </g>
+  <rect x="65" y="286" width="56" height="4" rx="2" fill="#c9ef92"/>
+  <text x="1148" y="324" text-anchor="end" font-family="Consolas,monospace" font-size="12" fill="#819786" letter-spacing="3">A5MY0U / GITHUB</text>
+</svg>

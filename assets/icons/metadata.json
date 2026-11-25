@@ -1,0 +1,215 @@
+{
+  "provider": "Simple Icons",
+  "revision": "d59bb32d4f94b1aa8c7cef9d264280d35d5f8f97",
+  "retrieved_on": "2026-11-25",
+  "provider_license": "CC0-1.0",
+  "trademark_notice": "Brand rights remain with their owners. CC0 does not waive third-party trademark rights.",
+  "icons": {
+    "Python": {
+      "title": "Python",
+      "hex": "3776AB",
+      "source": "https://www.python.org/community/logos/",
+      "guidelines": "https://www.python.org/community/logos/",
+      "file": "python.svg",
+      "source_revision": "d59bb32d4f94b1aa8c7cef9d264280d35d5f8f97",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/d59bb32d4f94b1aa8c7cef9d264280d35d5f8f97/icons/python.svg",
+      "sha256": "a90c00fd441482b4867ad5d7fa68db56aab4891f1b1e6879fe1ea3b355cf378f",
+      "display_color": "#3776AB",
+      "rendering": "official silhouette at original aspect ratio; no effects"
+    },
+    "JavaScript": {
+      "title": "JavaScript",
+      "hex": "F7DF1E",
+      "source": "https://github.com/voodootikigod/logo.js/blob/1544bdeed6d618a6cfe4f0650d04ab8d9cfa76d9/js.svg",
+      "license": {
+        "type": "MIT"
+      },
+      "file": "javascript.svg",
+      "source_revision": "d59bb32d4f94b1aa8c7cef9d264280d35d5f8f97",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/d59bb32d4f94b1aa8c7cef9d264280d35d5f8f97/icons/javascript.svg",
+      "sha256": "c9be35a7a861ebe80ae4ee706d05004b99ee59fc63db69da6dcc10776718434b",
+      "display_color": "#F7DF1E",
+      "rendering": "official silhouette at original aspect ratio; no effects"
+    },
+    "PyTorch": {
+      "title": "PyTorch",
+      "hex": "EE4C2C",
+      "source": "https://github.com/pytorch/pytorch.github.io/blob/8f083bd12192ca12d5e1c1f3d236f4831d823d8f/assets/images/logo.svg",
+      "guidelines": "https://github.com/pytorch/pytorch.github.io/blob/381117ec296f002b2de475402ef29cca6c55e209/assets/brand-guidelines/PyTorch-Brand-Guidelines.pdf",
+      "file": "pytorch.svg",
+      "source_revision": "d59bb32d4f94b1aa8c7cef9d264280d35d5f8f97",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/d59bb32d4f94b1aa8c7cef9d264280d35d5f8f97/icons/pytorch.svg",
+      "sha256": "4dd3f3d3e4102f3bee391fcb3d8ac960a14c48e6655d43b23f7b386d5da36d01",
+      "display_color": "#EE4C2C",
+      "rendering": "official silhouette at original aspect ratio; no effects"
+    },
+    "scikit-learn": {
+      "title": "scikit-learn",
+      "hex": "F7931E",
+      "source": "https://github.com/scikit-learn/scikit-learn/blob/c5ef2e985c13119001aa697e446ebb3dbcb326e5/doc/logos/scikit-learn-logo.svg",
+      "file": "scikitlearn.svg",
+      "source_revision": "d59bb32d4f94b1aa8c7cef9d264280d35d5f8f97",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/d59bb32d4f94b1aa8c7cef9d264280d35d5f8f97/icons/scikitlearn.svg",
+      "sha256": "ebaf97475ff5e6af3d6a4799a164a3a385e902e442d012cc19c47237cecb2be8",
+      "display_color": "#F7931E",
+      "rendering": "official silhouette at original aspect ratio; no effects"
+    },
+    "NumPy": {
+      "title": "NumPy",
+      "hex": "013243",
+      "source": "https://numpy.org/press-kit/",
+      "guidelines": "https://github.com/numpy/numpy/blob/main/branding/logo/logoguidelines.md",
+      "file": "numpy.svg",
+      "source_revision": "d59bb32d4f94b1aa8c7cef9d264280d35d5f8f97",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/d59bb32d4f94b1aa8c7cef9d264280d35d5f8f97/icons/numpy.svg",
+      "sha256": "ddbd7d92ab879ceba54f5428f49a703ba8d05d54b93808b7178f5e0afc8373a3",
+      "display_color": "#013243",
+      "rendering": "official silhouette at original aspect ratio; no effects"
+    },
+    "pandas": {
+      "title": "pandas",
+      "hex": "150458",
+      "source": "https://pandas.pydata.org/about/citing.html",
+      "guidelines": "https://pandas.pydata.org/about/citing.html",
+      "file": "pandas.svg",
+      "source_revision": "d59bb32d4f94b1aa8c7cef9d264280d35d5f8f97",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/d59bb32d4f94b1aa8c7cef9d264280d35d5f8f97/icons/pandas.svg",
+      "sha256": "0246b1e34e3760b719bac711184671df5a2cb7a332d3091d49c2a383a2b72b2e",
+      "display_color": "#150458",
+      "rendering": "official silhouette at original aspect ratio; no effects"
+    },
+    "Jupyter": {
+      "title": "Jupyter",
+      "hex": "F37626",
+      "source": "https://github.com/jupyter/design/blob/80716ee75dd7b2a6ec6abcd89922d020483589b1/logos/Logo%20Mark/logomark-whitebody-whitemoons/logomark-whitebody-whitemoons.svg",
+      "guidelines": "https://github.com/jupyter/design",
+      "file": "jupyter.svg",
+      "source_revision": "d59bb32d4f94b1aa8c7cef9d264280d35d5f8f97",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/d59bb32d4f94b1aa8c7cef9d264280d35d5f8f97/icons/jupyter.svg",
+      "sha256": "46e1e4fe83ba623803dfbfe8714a31ea902178421624dc3de427aae8325b9dba",
+      "display_color": "#F37626",
+      "rendering": "official silhouette at original aspect ratio; no effects"
+    },
+    "Spring Boot": {
+      "title": "Spring Boot",
+      "hex": "6DB33F",
+      "source": "https://spring.io/projects",
+      "file": "springboot.svg",
+      "source_revision": "d59bb32d4f94b1aa8c7cef9d264280d35d5f8f97",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/d59bb32d4f94b1aa8c7cef9d264280d35d5f8f97/icons/springboot.svg",
+      "sha256": "1b4bb8d7522fa0742a9fc40685b3efe3e089c5d07e4d3eebf4b4dbb28f827ad3",
+      "display_color": "#6DB33F",
+      "rendering": "official silhouette at original aspect ratio; no effects"
+    },
+    "HTML5": {
+      "title": "HTML5",
+      "hex": "E34F26",
+      "source": "https://www.w3.org/html/logo/",
+      "file": "html5.svg",
+      "source_revision": "d59bb32d4f94b1aa8c7cef9d264280d35d5f8f97",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/d59bb32d4f94b1aa8c7cef9d264280d35d5f8f97/icons/html5.svg",
+      "sha256": "dfd65fdd7e4f997c6b163e48793de5ad18c4c99e191807a61752ea702f123d1d",
+      "display_color": "#E34F26",
+      "rendering": "official silhouette at original aspect ratio; no effects",
+      "license": {
+        "type": "CC-BY-3.0",
+        "url": "https://www.w3.org/html/logo/"
+      }
+    },
+    "Thymeleaf": {
+      "title": "Thymeleaf",
+      "hex": "005F0F",
+      "source": "https://github.com/thymeleaf/thymeleaf-org/blob/0427d4d4c6f08d3a1fbed3bc90ceeebcf094b532/artwork/thymeleaf%202016/thymeleaf.svg",
+      "file": "thymeleaf.svg",
+      "source_revision": "d59bb32d4f94b1aa8c7cef9d264280d35d5f8f97",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/d59bb32d4f94b1aa8c7cef9d264280d35d5f8f97/icons/thymeleaf.svg",
+      "sha256": "cc4e93aae2d46d36bd21da527b841f0c4bdf469984aaaded5e5c06bd67c585bf",
+      "display_color": "#005F0F",
+      "rendering": "official silhouette at original aspect ratio; no effects"
+    },
+    "Git": {
+      "title": "Git",
+      "hex": "F03C2E",
+      "source": "https://git-scm.com/community/logos",
+      "license": {
+        "type": "CC-BY-3.0"
+      },
+      "file": "git.svg",
+      "source_revision": "d59bb32d4f94b1aa8c7cef9d264280d35d5f8f97",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/d59bb32d4f94b1aa8c7cef9d264280d35d5f8f97/icons/git.svg",
+      "sha256": "95724d436215d483de82288610c3c144854138f49945424697fcdf8be66e17d6",
+      "display_color": "#F03C2E",
+      "rendering": "official silhouette at original aspect ratio; no effects"
+    },
+    "GitHub": {
+      "title": "GitHub",
+      "hex": "181717",
+      "source": "https://github.com/logos",
+      "guidelines": "https://github.com/logos",
+      "file": "github.svg",
+      "source_revision": "d59bb32d4f94b1aa8c7cef9d264280d35d5f8f97",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/d59bb32d4f94b1aa8c7cef9d264280d35d5f8f97/icons/github.svg",
+      "sha256": "3bf8cceead820aec50d4ee825a3fd02c5a1cd6665cc9cf4cbf3d9c8861a204bb",
+      "display_color": "#FFFFFF",
+      "rendering": "official silhouette at original aspect ratio; no effects"
+    },
+    "Google Colab": {
+      "title": "Google Colab",
+      "hex": "F9AB00",
+      "source": "https://colab.research.google.com",
+      "file": "googlecolab.svg",
+      "source_revision": "d59bb32d4f94b1aa8c7cef9d264280d35d5f8f97",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/d59bb32d4f94b1aa8c7cef9d264280d35d5f8f97/icons/googlecolab.svg",
+      "sha256": "7543c1dd3e4c0decf35c68eb74a75bb9fbbae858df49c3855d358cebb98fad12",
+      "display_color": "#F9AB00",
+      "rendering": "official silhouette at original aspect ratio; no effects"
+    },
+    "pytest": {
+      "title": "Pytest",
+      "hex": "0A9EDC",
+      "source": "https://github.com/pytest-dev/design/blob/081f06cd2d6cd742e68f593560a2e8c1802feb7c/pytest_logo/pytest_logo.svg",
+      "file": "pytest.svg",
+      "source_revision": "d59bb32d4f94b1aa8c7cef9d264280d35d5f8f97",
+      "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/d59bb32d4f94b1aa8c7cef9d264280d35d5f8f97/icons/pytest.svg",
+      "sha256": "ed36ea71c97a34c714a9b6e0ecbd8ebf8215bd4145d9d68dda171b3f97dc64d7",
+      "display_color": "#0A9EDC",
+      "rendering": "official silhouette at original aspect ratio; no effects"
+    },
+    "Java": {
+      "file": null,
+      "fallback_reason": "Oracle trademark terms are not bundled with Simple Icons; use the product name without a logo."
+    },
+    "C": {
+      "file": null,
+      "fallback_reason": "No single standards-body-owned C programming-language logo was verified; the common C mark in Simple Icons is community-sourced."
+    },
+    "SQL": {
+      "file": null,
+      "fallback_reason": "SQL is a language standard, not one database product. A vendor logo would misidentify it."
+    },
+    "Matplotlib": {
+      "file": null,
+      "fallback_reason": "No logo with verified redistribution terms was included in the pinned icon set; retain the accurate product name."
+    },
+    "LightGBM": {
+      "file": null,
+      "fallback_reason": "No logo with verified redistribution terms was included in the pinned icon set; retain the accurate product name."
+    },
+    "CatBoost": {
+      "file": null,
+      "fallback_reason": "No logo with verified redistribution terms was included in the pinned icon set; retain the accurate product name."
+    },
+    "CSS3": {
+      "file": null,
+      "fallback_reason": "The pinned set contains the newer CSS mark, not CSS3. Preserve the requested CSS3 label without substituting a different mark."
+    },
+    "Oracle Database": {
+      "file": null,
+      "fallback_reason": "Oracle trademark conditions were not established for this composite portfolio card; use the name only."
+    },
+    "Visual Studio Code": {
+      "file": null,
+      "fallback_reason": "VS Code brand guidelines prohibit icon/name lockups and adding backgrounds to the icon; the composite card uses the product name only."
+    }
+  }
+}

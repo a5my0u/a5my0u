@@ -1,0 +1,55 @@
+name: Update public profile assets
+
+# UTC 23:00 = 08:00 Japan Standard Time on the following calendar day.
+# GitHub's scheduler is best-effort and may run late or skip a busy interval.
+on:
+  schedule:
+    - cron: '0 23 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: profile-assets-${{ github.repository }}
+  cancel-in-progress: false
+
+jobs:
+  update:
+    # The workflow must be reviewed and installed in this profile repository.
+    if: github.repository == 'a5my0u/a5my0u'
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    permissions:
+      contents: write
+    steps:
+      - name: Check out the reviewed source
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1, MIT
+        with:
+          persist-credentials: false
+          fetch-depth: 1
+
+      - name: Set up Python
+        uses: actions/setup-python@6d4fd22b20465ccc0f7354476588e8df7c9ca0e0 # v7.1.0, MIT
+        with:
+          python-version: '3.13'
+
+      - name: Install test dependencies
+        run: python -m pip install -r requirements-dev.txt
+
+      - name: Run tests before contacting the API
+        run: python -m pytest -q
+
+      - name: Fetch public data and render a complete validated asset set
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: python scripts/update_profile.py
+
+      - name: Publish changed assets to the dedicated branch
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: python scripts/publish_generated.py --publish
+
+      - name: Report a failed update
+        if: failure()
+        run: echo 'No failed generation was published. The previous profile-assets commit remains available.'

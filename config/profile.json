@@ -1,0 +1,134 @@
+{
+  "username": "a5my0u",
+  "repository": "a5my0u/a5my0u",
+  "generated_branch": "profile-assets",
+  "palette": {
+    "background": "#0D0D0D",
+    "card": "#171717",
+    "border": "#303030",
+    "accent": "#34D399",
+    "text": "#F5F5F5",
+    "muted": "#A1A1AA",
+    "snake": "#FBBF24",
+    "languages": [
+      "#34D399",
+      "#86EFAC",
+      "#23875C",
+      "#20563F",
+      "#164735",
+      "#829B93"
+    ],
+    "contributions": [
+      "#242424",
+      "#164735",
+      "#20563F",
+      "#23875C",
+      "#34D399"
+    ]
+  },
+  "header": {
+    "width": 1200,
+    "height": 320,
+    "loop_seconds": 16,
+    "field": "DATA SCIENCE / ENGINEERING",
+    "interests": "Machine Learning · AI · Software",
+    "location": "CHIBA UNIVERSITY / JAPAN"
+  },
+  "about": {
+    "intro": "I'm an undergraduate student studying Information and Data Science at Chiba University, Japan.",
+    "body": "My interests span machine learning, artificial intelligence, data science, software engineering, and data engineering. Through internships and personal learning, I explore practical ways to work with data and build software.",
+    "focus": [
+      "Machine Learning",
+      "Data Science"
+    ],
+    "learning": [
+      "Deep Learning",
+      "Machine Learning",
+      "AI Engineering"
+    ],
+    "certification": {
+      "name": "Japan Statistical Society Certificate",
+      "level": "Grade 2",
+      "verified_name": true,
+      "name_source": "https://www.toukei-kentei.jp/faq"
+    }
+  },
+  "tech_stack": {
+    "Programming Languages": [
+      "Python",
+      "Java",
+      "C",
+      "JavaScript",
+      "SQL"
+    ],
+    "Data Science & AI": [
+      "PyTorch",
+      "scikit-learn",
+      "NumPy",
+      "pandas",
+      "Matplotlib",
+      "LightGBM",
+      "CatBoost",
+      "Jupyter"
+    ],
+    "Web & Database": [
+      "Spring Boot",
+      "HTML5",
+      "CSS3",
+      "Thymeleaf",
+      "Oracle Database"
+    ],
+    "Development Tools": [
+      "Git",
+      "GitHub",
+      "Visual Studio Code",
+      "Google Colab",
+      "pytest"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Software Engineering Intern",
+      "start": "2025-07",
+      "end": "2026-07",
+      "publish": true,
+      "details": [
+        "SaaS application development using Java and Spring Boot",
+        "SQL and database development",
+        "Report generation and process improvement"
+      ]
+    },
+    {
+      "role": "Data Science Intern",
+      "start": "2026-09",
+      "end": "2026-09",
+      "publish": true,
+      "details": [
+        "Document processing and product matching",
+        "Data preprocessing and prototype development"
+      ]
+    }
+  ],
+  "achievement": {
+    "publish": false,
+    "confirmation_required": true
+  },
+  "featured_projects": [],
+  "analytics": {
+    "days": 365,
+    "exclude_forks": true,
+    "exclude_archived": true,
+    "exclude_repositories": [
+      "a5my0u/a5my0u"
+    ],
+    "exclude_languages": [],
+    "top_languages": 5,
+    "public_only": true,
+    "timeout_seconds": 20,
+    "max_retries": 3
+  },
+  "assets": {
+    "card_radius": 18,
+    "analytics_width": 960
+  }
+}

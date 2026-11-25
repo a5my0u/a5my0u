@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="382" viewBox="0 0 560 382" role="img" aria-labelledby="title desc">
+<title id="title">Development Tools</title>
+<desc id="desc">Git, GitHub, Visual Studio Code, Google Colab, pytest. Listed technologies indicate experience, not proficiency ratings.</desc>
+<rect x=".5" y=".5" width="559" height="381" rx="18" fill="#171717" stroke="#303030"/>
+<rect x="28" y="28" width="3" height="26" rx="1.5" fill="#34D399"/>
+<text x="44" y="49" font-family="Inter,Arial,sans-serif" font-size="24" font-weight="600" fill="#F5F5F5">Development Tools</text>
+<path d="M28 77H532" stroke="#303030"/>
+<g aria-label="Git">
+<rect x="28" y="102" width="44" height="44" rx="11" fill="#222222"/>
+<g transform="translate(36 110) scale(1.1666667)" fill="#F03C2E"><path d="M13.09 23.549a1.54 1.54 0 0 1-2.18 0L.451 13.089a1.54 1.54 0 0 1 0-2.179l7.191-7.19 2.733 2.733a1.85 1.85 0 0 0 .964 2.326v6.66a1.849 1.849 0 1 0 1.54 0V8.957l2.508 2.508a1.85 1.85 0 1 0 1.09-1.09l-2.634-2.634a1.85 1.85 0 0 0-2.378-2.377L8.73 2.63 10.91.451a1.54 1.54 0 0 1 2.179 0l10.459 10.46a1.54 1.54 0 0 1 0 2.179z"/></g>
+<text x="86" y="131" font-family="Inter,Arial,sans-serif" font-size="24" fill="#F5F5F5">Git</text>
+</g>
+<g aria-label="GitHub">
+<rect x="286" y="102" width="44" height="44" rx="11" fill="#222222"/>
+<g transform="translate(294 110) scale(1.1666667)" fill="#FFFFFF"><path d="M12 .297c-6.63 0-12 5.373-12 12 0 5.303 3.438 9.8 8.205 11.385.6.113.82-.258.82-.577 0-.285-.01-1.04-.015-2.04-3.338.724-4.042-1.61-4.042-1.61C4.422 18.07 3.633 17.7 3.633 17.7c-1.087-.744.084-.729.084-.729 1.205.084 1.838 1.236 1.838 1.236 1.07 1.835 2.809 1.305 3.495.998.108-.776.417-1.305.76-1.605-2.665-.3-5.466-1.332-5.466-5.93 0-1.31.465-2.38 1.235-3.22-.135-.303-.54-1.523.105-3.176 0 0 1.005-.322 3.3 1.23.96-.267 1.98-.399 3-.405 1.02.006 2.04.138 3 .405 2.28-1.552 3.285-1.23 3.285-1.23.645 1.653.24 2.873.12 3.176.765.84 1.23 1.91 1.23 3.22 0 4.61-2.805 5.625-5.475 5.92.42.36.81 1.096.81 2.22 0 1.606-.015 2.896-.015 3.286 0 .315.21.69.825.57C20.565 22.092 24 17.592 24 12.297c0-6.627-5.373-12-12-12"/></g>
+<text x="344" y="131" font-family="Inter,Arial,sans-serif" font-size="24" fill="#F5F5F5">GitHub</text>
+</g>
+<g aria-label="Visual Studio Code">
+<text x="28" y="184" font-family="Inter,Arial,sans-serif" font-size="24" fill="#F5F5F5">Visual Studio<tspan x="28" dy="27">Code</tspan></text>
+</g>
+<g aria-label="Google Colab">
+<rect x="286" y="166" width="44" height="44" rx="11" fill="#222222"/>
+<g transform="translate(294 174) scale(1.1666667)" fill="#F9AB00"><path d="M16.9414 4.9757a7.033 7.033 0 0 0-4.9308 2.0646 7.033 7.033 0 0 0-.1232 9.8068l2.395-2.395a3.6455 3.6455 0 0 1 5.1497-5.1478l2.397-2.3989a7.033 7.033 0 0 0-4.8877-1.9297zM7.07 4.9855a7.033 7.033 0 0 0-4.8878 1.9316l2.3911 2.3911a3.6434 3.6434 0 0 1 5.0227.1271l1.7341-2.9737-.0997-.0802A7.033 7.033 0 0 0 7.07 4.9855zm15.0093 2.1721l-2.3892 2.3911a3.6455 3.6455 0 0 1-5.1497 5.1497l-2.4067 2.4068a7.0362 7.0362 0 0 0 9.9456-9.9476zM1.932 7.1674a7.033 7.033 0 0 0-.002 9.6816l2.397-2.397a3.6434 3.6434 0 0 1-.004-4.8916zm7.664 7.4235c-1.38 1.3816-3.5863 1.411-5.0168.1134l-2.397 2.395c2.4693 2.3328 6.263 2.5753 9.0072.5455l.1368-.1115z"/></g>
+<text x="344" y="195" font-family="Inter,Arial,sans-serif" font-size="24" fill="#F5F5F5">Google Colab</text>
+</g>
+<g aria-label="pytest">
+<rect x="28" y="230" width="44" height="44" rx="11" fill="#222222"/>
+<g transform="translate(36 238) scale(1.1666667)" fill="#0A9EDC"><path d="M2.6152 0v.8867h3.8399V0zm5.0215 0v.8867h3.8418V0zm4.957 0v.8867h3.8418V0zm4.9356 0v.8867h3.8418V0zM2.4473 1.8945a.935.935 0 0 0-.9356.9356c0 .517.4185.9375.9356.9375h19.1054c.5171 0 .9356-.4204.9356-.9375a.935.935 0 0 0-.9356-.9356zm.168 2.8477V24H6.455V4.7422zm5.0214 0V20.543h3.8418V4.7422zm4.957 0V15.291h3.8497V4.7422zm4.9356 0v6.4941h3.8418V4.7422z"/></g>
+<text x="86" y="259" font-family="Inter,Arial,sans-serif" font-size="24" fill="#F5F5F5">pytest</text>
+</g>
+</svg>

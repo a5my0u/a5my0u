@@ -1,0 +1,3 @@
+# Daily data fetching and SVG rendering use only the Python standard library.
+# Pillow is needed only to prepare/replace the static Dark Silk texture.
+Pillow==12.0.0

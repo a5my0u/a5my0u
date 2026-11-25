@@ -3,10 +3,6 @@ name: Update public profile assets
 # UTC 23:00 = 08:00 Japan Standard Time on the following calendar day.
 # GitHub's scheduler is best-effort and may run late or skip a busy interval.
 on:
-  # Approved one-time initial deployment trigger; removed after verification.
-  push:
-    branches: [main]
-    paths: ['.github/workflows/update-profile.yml']
   schedule:
     - cron: '0 23 * * *'
   workflow_dispatch:

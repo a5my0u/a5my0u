@@ -108,7 +108,7 @@ def render(config, generated_branch=None):
         '- **Stars:** the current star total on the included owned public repositories. This is a lifetime stock, not a 365-day activity count.',
         '- **Languages:** GitHub language byte totals from the included repositories. Notebook/code generation can affect shares. This is not a proficiency score.',
         '- **Privacy:** no private repository names, contents, or activity aggregates are used.',
-        '- **Updates:** scheduled around 08:00 JST daily once automation is deployed. Failed updates preserve the last successful images.', '',
+        '- **Updates:** scheduled around 08:00 JST daily. Failed updates preserve the last successful images.', '',
         '</details>', '',
         '## 06 / CONTRIBUTION ACTIVITY', '',
         f'<picture><source media="(max-width: 600px)" srcset="{base}contribution-snake-mobile.svg" /><img src="{base}contribution-snake.svg" alt="Gold snake over the real, explicitly scoped public activity calendar: commits, opened pull requests and opened issues. This excludes private activities and is not the native GitHub total." width="1200" /></picture>', ''

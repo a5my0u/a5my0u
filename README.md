@@ -14,7 +14,7 @@
 
 ## 01 / ABOUT ME
 
-I'm an undergraduate student studying Information and Data Science at Chiba University, Japan.
+I'm a third-year undergraduate student studying Information and Data Science at Chiba University, Japan.
 
 My interests span machine learning, artificial intelligence, data science, software engineering, and data engineering. Through internships and personal learning, I explore practical ways to work with data and build software.
 
@@ -53,8 +53,8 @@ My interests span machine learning, artificial intelligence, data science, softw
 ## 05 / GITHUB ANALYTICS
 
 <p>
-  <picture><source media="(max-width: 600px)" srcset="./assets/generated/github-stats-mobile.svg" /><img src="./assets/generated/github-stats.svg" alt="Public activity KPI cards: commits, opened pull requests, current stars and opened issues. Read metric definitions below." width="410" /></picture>
-  <picture><source media="(max-width: 600px)" srcset="./assets/generated/languages-mobile.svg" /><img src="./assets/generated/languages.svg" alt="Language distribution based on included public repository code size, not proficiency." width="410" /></picture>
+  <picture><source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/a5my0u/a5my0u/profile-assets/assets/generated/github-stats-mobile.svg" /><img src="https://raw.githubusercontent.com/a5my0u/a5my0u/profile-assets/assets/generated/github-stats.svg" alt="Public activity KPI cards: commits, opened pull requests, current stars and opened issues. Read metric definitions below." width="410" /></picture>
+  <picture><source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/a5my0u/a5my0u/profile-assets/assets/generated/languages-mobile.svg" /><img src="https://raw.githubusercontent.com/a5my0u/a5my0u/profile-assets/assets/generated/languages.svg" alt="Language distribution based on included public repository code size, not proficiency." width="410" /></picture>
 </p>
 
 <details><summary>Scope and metric definitions</summary>
@@ -65,10 +65,10 @@ My interests span machine learning, artificial intelligence, data science, softw
 - **Stars:** the current star total on the included owned public repositories. This is a lifetime stock, not a 365-day activity count.
 - **Languages:** GitHub language byte totals from the included repositories. Notebook/code generation can affect shares. This is not a proficiency score.
 - **Privacy:** no private repository names, contents, or activity aggregates are used.
-- **Updates:** scheduled around 08:00 JST daily once automation is deployed. Failed updates preserve the last successful images.
+- **Updates:** scheduled around 08:00 JST daily. Failed updates preserve the last successful images.
 
 </details>
 
 ## 06 / CONTRIBUTION ACTIVITY
 
-<picture><source media="(max-width: 600px)" srcset="./assets/generated/contribution-snake-mobile.svg" /><img src="./assets/generated/contribution-snake.svg" alt="Gold snake over the real, explicitly scoped public activity calendar: commits, opened pull requests and opened issues. This excludes private activities and is not the native GitHub total." width="1200" /></picture>
+<picture><source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/a5my0u/a5my0u/profile-assets/assets/generated/contribution-snake-mobile.svg" /><img src="https://raw.githubusercontent.com/a5my0u/a5my0u/profile-assets/assets/generated/contribution-snake.svg" alt="Gold snake over the real, explicitly scoped public activity calendar: commits, opened pull requests and opened issues. This excludes private activities and is not the native GitHub total." width="1200" /></picture>
